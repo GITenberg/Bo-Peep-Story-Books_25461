@@ -1,0 +1,35 @@
+_repo: Bo-Peep-Story-Books_25461
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25461-h/images/img.coverbpeep.jpg
+creator:
+  editor:
+    agent_name: Chatelain, Clara de
+    aliases:
+    - Chatelain, Clara de Pontigny de
+    - Wray, Leopold
+    - Chatelain, Madame de
+    birthdate: 1807
+    deathdate: 1876
+    gutenberg_agent_id: '31351'
+    url: http://www.gutenberg.org/2009/agents/31351
+description: ''
+gutenberg_issued: '2008-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25461'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+tableOfContents: Cinderella; or, the Glass Slipper -- Beauty and the Beast -- Princess
+  Rosetta -- Little Red Riding Hood -- The Sleeping Beauty in the Wood -- The Fair
+  One With Golden Locks -- Old Mother Hubbard -- Little Bo-Peep -- The Old Woman and
+  her Eggs -- Old Mother Goose -- The Story of the Three Bears -- Little Goody Two-Shoes
+  -- The House that Jack Built -- Death & Burial of Cock Robin.
+title: Bo-Peep Story Books
+url: http://www.gutenberg.org/ebooks/25461
